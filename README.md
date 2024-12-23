@@ -1,2 +1,3 @@
 # custom-products-catalog
-sample app creation
+
+sample app creation changed
